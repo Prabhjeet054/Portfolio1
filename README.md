@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 ### To view the project 
-  https://portfolio1-2g8r-iuxxea7iz-prabhjeet-singhs-projects.vercel.app
+  https://portfolio1-2g8r.vercel.app
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
